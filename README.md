@@ -1,1 +1,2 @@
 # Python-Project
+The UnDoc Text Summarizer is a Python-based application designed to simplify and enhance text summarization across multiple languages. The project addresses the growing need for tools that can process large volumes of text, extract meaningful information, and support multilingual capabilities. This application offers features such as text input, voice input, text summarization, and voice output, ensuring accessibility and efficiency. The goal is to provide users with a robust solution for language translation, summarization, and audio feedback.
